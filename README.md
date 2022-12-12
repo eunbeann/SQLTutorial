@@ -14,6 +14,7 @@ SQL 전문가 가이드 1회독 목표 👀
    - 1.3. 속성 (Attribute)
    - 1.4. 관계 (Relationship)
    - 1.5. 식별자
+   
 2. 데이터 모델과 성능
    - 2.1. 성능 데이터 모델링의 개요
    - 2.2. 정규화와 성능
@@ -34,6 +35,7 @@ SQL 전문가 가이드 1회독 목표 👀
    - 1.7. Group by, Having 절
    - 1.8. Order by 절
    - 1.9. 조인(Join)
+
 2. SQL 활용
    - 2.1. 표준 조인 (Standard Join)
    - 2.2. 집합 연산자 (Set Operation)
@@ -43,6 +45,7 @@ SQL 전문가 가이드 1회독 목표 👀
    - 2.6. 윈도우 함수 (Window 함수)
    - 2.7. DCL(Data Control Language)
    - 2.7. 절차형 SQL
+
 3. SQL 최적화 기본 원리
    - 3.1. 옵티마이저와 실행계호
    - 3.2. 인덱스 기본
